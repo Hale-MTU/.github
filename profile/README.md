@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Free, offline health apps for Android.</strong><br>
-  Hale MTÜ is the Estonian non-profit association behind OpenVitals, OpenWatch and OpenVitals Bridge:
+  Hale MTÜ is the Estonian non-profit association behind OpenVitals, OpenWatch and OpenBridge:
   no accounts, no ads, no analytics, no cloud. Your health data stays on your phone.
 </p>
 
@@ -37,8 +37,8 @@
     <a href="https://play.google.com/store/apps/details?id=tech.mmarca.openwatch">Google Play</a> · <a href="https://github.com/Hale-MTU/OpenWatch/releases">GitHub releases</a></td>
   </tr>
   <tr>
-    <td width="120" align="center"><img src="bridge-mark.png" alt="OpenVitals Bridge" width="96"></td>
-    <td><strong><a href="https://github.com/Hale-MTU/bridge">OpenVitals Bridge</a></strong> is the way out: a separate, optional app that reads the data OpenVitals chooses to share and can pass it on to online services. It is the only app in the family with internet access, and it is early stage; no service is connected yet.</td>
+    <td width="120" align="center"><img src="bridge-mark.png" alt="OpenBridge" width="96"></td>
+    <td><strong><a href="https://github.com/Hale-MTU/OpenBridge">OpenBridge</a></strong> is the way out: a separate, optional app that reads the data OpenVitals chooses to share and can pass it on to online services. It is the only app in the family with internet access, and it is early stage; no service is connected yet.</td>
   </tr>
 </table>
 
@@ -59,7 +59,7 @@ Read the [privacy page](https://docs.openvitals.health/app/privacy) for details.
 |---|---|
 | [**android-app**](https://github.com/Hale-MTU/android-app) | The OpenVitals Android app (Kotlin, Jetpack Compose, Health Connect). |
 | [**OpenWatch**](https://github.com/Hale-MTU/OpenWatch) | The OpenWatch phone and Wear OS apps and the link between them. |
-| [**bridge**](https://github.com/Hale-MTU/bridge) | OpenVitals Bridge. Early stage. |
+| [**OpenBridge**](https://github.com/Hale-MTU/OpenBridge) | The OpenBridge app. Early stage. |
 | [**docs**](https://github.com/Hale-MTU/docs) | Source for [docs.openvitals.health](https://docs.openvitals.health). |
 | [**landing-page**](https://github.com/Hale-MTU/landing-page) | Source for [openvitals.health](https://openvitals.health), in 14 languages. |
 | [**blog**](https://github.com/Hale-MTU/blog) | Source for [blog.openvitals.health](https://blog.openvitals.health). |
