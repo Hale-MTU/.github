@@ -13,9 +13,9 @@
 
 <p align="center">
   <a href="https://hale.ngo">hale.ngo</a> ·
-  <a href="https://openvitals.health">OpenVitals</a> ·
-  <a href="https://docs.openvitals.health">Documentation</a> ·
-  <a href="https://blog.openvitals.health">Blog</a> ·
+  <a href="https://hale.ngo">OpenVitals</a> ·
+  <a href="https://docs.hale.ngo">Documentation</a> ·
+  <a href="https://blog.hale.ngo">Blog</a> ·
   <a href="https://openvitals.zulipchat.com/">Community chat</a>
 </p>
 
@@ -51,7 +51,7 @@
 | 📊 **No ads or analytics** | The apps contain no tracking SDKs. |
 | 🩺 **Health Connect is the source of truth** | Your data stays in Android's own health store. |
 
-Read the [privacy page](https://docs.openvitals.health/app/privacy) for details.
+Read the [privacy page](https://docs.hale.ngo/app/privacy) for details.
 
 ## Repositories
 
@@ -60,9 +60,9 @@ Read the [privacy page](https://docs.openvitals.health/app/privacy) for details.
 | [**android-app**](https://github.com/Hale-MTU/android-app) | The OpenVitals Android app (Kotlin, Jetpack Compose, Health Connect). |
 | [**OpenWatch**](https://github.com/Hale-MTU/OpenWatch) | The OpenWatch phone and Wear OS apps and the link between them. |
 | [**OpenBridge**](https://github.com/Hale-MTU/OpenBridge) | The OpenBridge app. Early stage. |
-| [**docs**](https://github.com/Hale-MTU/docs) | Source for [docs.openvitals.health](https://docs.openvitals.health). |
-| [**landing-page**](https://github.com/Hale-MTU/landing-page) | Source for [openvitals.health](https://openvitals.health), in 14 languages. |
-| [**blog**](https://github.com/Hale-MTU/blog) | Source for [blog.openvitals.health](https://blog.openvitals.health). |
+| [**docs**](https://github.com/Hale-MTU/docs) | Source for [docs.hale.ngo](https://docs.hale.ngo). |
+| [**landing-page**](https://github.com/Hale-MTU/landing-page) | Source for [hale.ngo](https://hale.ngo), in 14 languages. |
+| [**blog**](https://github.com/Hale-MTU/blog) | Source for [blog.hale.ngo](https://blog.hale.ngo). |
 | [**design-system**](https://github.com/Hale-MTU/design-system) | Material 3 design tokens, components and UI kits. |
 | [**finances**](https://github.com/Hale-MTU/finances) | The association's finances, in the open. |
 
@@ -72,7 +72,7 @@ All projects are free software under the **AGPL-3.0-or-later** license.
 
 - 🐛 **Report a bug or request a feature:** [OpenVitals](https://github.com/Hale-MTU/android-app/issues) · [OpenWatch](https://github.com/Hale-MTU/OpenWatch/issues) · [docs and website](https://github.com/Hale-MTU/docs/issues)
 - 🌍 **Translate:** [Codeberg Translate](https://translate.codeberg.org/projects/openvitals/mobile-app/)
-- 🛠️ **Contribute code:** [build instructions](https://docs.openvitals.health/developers/build) · [contributing guide](https://docs.openvitals.health/developers/contributing)
+- 🛠️ **Contribute code:** [build instructions](https://docs.hale.ngo/developers/build) · [contributing guide](https://docs.hale.ngo/developers/contributing)
 - 💬 **Chat:** [Zulip](https://openvitals.zulipchat.com/)
 - ❤️ **Support the project:** <a href="https://liberapay.com/manuel.mmarca.tech/donate"><img src="https://liberapay.com/assets/widgets/donate.svg" alt="Donate using Liberapay" align="center"></a>
 
